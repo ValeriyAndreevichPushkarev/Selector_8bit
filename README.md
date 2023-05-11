@@ -33,7 +33,7 @@ Analysis of results:
 2) Fastest selector based on a tree with fixed branching factor (FO-4) (selector_test_5)
 3) Fastest selector based on a tree with fixed branching factor (FO-16) (selector_test_6)
 
-For 3 we have **20% less area** for smallest delay compared with (1) and (2). Also, results for **best area and delay is the same for (3)**.
+For (3) we have **20% less area** for smallest delay compared with (1) and (2). Also, results for **best area and delay is the same for (3)**.
 
 ### Testbenches:
 	Smoke test (select first lane)
