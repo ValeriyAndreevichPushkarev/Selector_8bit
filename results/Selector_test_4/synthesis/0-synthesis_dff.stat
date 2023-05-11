@@ -1,0 +1,20 @@
+
+52. Printing statistics.
+
+=== Selector_8 ===
+
+   Number of wires:                 50
+   Number of wire bits:            312
+   Number of public wires:           2
+   Number of public wire bits:     264
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                304
+     $_ANDNOT_                     244
+     $_AND_                         16
+     $_NAND_                         4
+     $_NOR_                         14
+     $_ORNOT_                        8
+     $_OR_                          18
+
