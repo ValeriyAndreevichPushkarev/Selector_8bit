@@ -35,6 +35,8 @@ Analysis of results:
 
 For (3) we have **20% less area** for smallest delay compared with (1) and (2). Also, results for **best area and delay is the same for (3)**.
 
+Check why I dont have FO-16 synthesis in arithmetic cores.
+
 ### Testbenches:
 	Smoke test (select first lane)
   	User test (select N lane)
